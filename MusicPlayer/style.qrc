@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/styleSheet">
+        <file alias="slider">slider.qss</file>
+        <file alias="scrollBar">scrollBar.qss</file>
+    </qresource>
+</RCC>
